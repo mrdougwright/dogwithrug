@@ -22,4 +22,4 @@ It's true, destiny doesn't happen by chance, you have to choose it. But with our
 
 I still wonder what would have happened had I stayed in Los Angeles. Would I have 'made it'? I guess I'll really never know. But one thing I know for sure is that I wouldn't be on the path I am now--and that road is just as wild and uncharted as any other.
 
-[wood-image]: /images/path-woods.jpg
+[wood-image]: /images/path-in-woods.jpg
