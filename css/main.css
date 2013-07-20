@@ -3,6 +3,7 @@
 /* Common
 /*
 /*****************************************************************************/
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
 
 /* Global Reset */
 * {
@@ -14,8 +15,9 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-family: 'Source Sans Pro', sans-serif;
+  font: 1.275em;
+  font-size: medium;
   text-align: center;
 }
 
@@ -25,9 +27,16 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a { 
+  color: #2E5C8A; 
+  text-decoration: none;
+}
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #4775A3; }
+
+.posts li a:hover {
+  background-color: #E8E8F0;
+}
 
 table {
   font-size: inherit;
