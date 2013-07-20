@@ -28,11 +28,13 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a { 
-  color: #2E5C8A; 
+  color: #003399; 
   text-decoration: none;
 }
 a:hover   { color: #000; }
-a:visited { color: #4775A3; }
+a:visited { 
+  color: #4775A3;
+}
 
 .posts li a:hover {
   background-color: #E8E8F0;
