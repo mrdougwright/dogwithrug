@@ -193,7 +193,7 @@ img {
   font-size: 0.75em;
 }
 /* for phones - wrap code text */
-@media only screen and (min-width : 321px) {
+@media screen and (max-width : 480px) {
   pre {
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
