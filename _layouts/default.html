@@ -12,6 +12,10 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <!-- Link for tidyTime.js -->
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/javascripts/tidyTime.min.js"></script>
+
     </head>
     <body>
 
@@ -39,6 +43,9 @@
                   <a href="http://twitter.com/mrdougwright">twitter.com/mrdougwright</a><br />
                 </p>
               </div>
+              <div class="pull-right">
+                <p class="tidyTime"></p>
+              </div>
             </div>
           </div>
         </div> <!-- /container -->
@@ -50,6 +57,13 @@
 
         ga('create', 'UA-42734216-1', 'dogwithrug.com');
         ga('send', 'pageview');
+
+        $(document).ready(function ($) {
+          $('.tidyTime').tidyTime({
+            before:'It\'s ',
+            periodOfDay: true
+          });
+        });
 
       </script>
     </body>
