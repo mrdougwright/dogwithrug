@@ -209,6 +209,6 @@ img {
     word-wrap: break-word;
   }
   .header img {
-    width: auto;
+    width: 50%;
   }
 }
