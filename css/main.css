@@ -211,4 +211,7 @@ img {
   .header img {
     width: auto;
   }
+  .tidyTime {
+    display: none;
+  }
 }
