@@ -208,4 +208,7 @@ img {
     white-space: -moz-pre-wrap;
     word-wrap: break-word;
   }
+  .header img {
+    width: auto;
+  }
 }
