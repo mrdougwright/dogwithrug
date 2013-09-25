@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "10,000 hours"
+date:   2013-09-24 05:54:00
+categories: ruby coding
+---
+Three years ago I pondered the idea of learning programming. At the time I was working in the film industry, and it wasn't turning out to be that glamorous. I can't remember why I started playing around with code one day. I remembered some of the basics I had learned in college, but back then programming had not interested me.
+
+Fast forward to 2011 and programming had changed in many fundamental ways. For one, there was this awesome language everyone was using (Ruby) that was much easier to read than C++ and had several libraries already written. Even better than this was the myriad of free and paid resources online to help curious folks like me dabble in code again.
+
+[Codecademy][codecademy] was also released that year, so I took it upon myself to complete their Code Year challenge. After about six months, I had the basics down--variables, arrays, loops, conditionals, methods, etc. Looking for more in-depth studies, I tried other tools available online, like [Code School][code-school] and [Tree House][tree-house]. Though these helped me understand more complex concepts, I still felt like a beginner. How would I ever get my "10,000 hours" that seemed necessary to break into the world of programming?
+
+![10,000 hours][10_000]
+
+I started to get serious about coding and took a more intensive Ruby on Rails course from [Bloc][bloc]. This course helped me build my first Rails app and really push me into the beginner-intermediate level of programming. After the course, I kept my day job as a marketer while looking for junior engineering jobs and internships. And I kept learning more about code.
+
+I wrote some more apps. I took some more courses. I worked hard. If I estimate the hours I spent learning code, my weekly average comes to about 15 hours. In less than three years, this is about 2,340 hours, or about 25% of the 10,000 hour goal mark.
+
+In the last three days, I've spent about 8 hours a day writing code. Not because I'm eager to learn more (though I am), but because I started a job as a software engineer!
+
+Sure, I'm no expert and certainly no senior full-stack developer, but I'm good enough to hack some things together and learn from some peers. And the best part? I didn't need to wait until I met the 10,000 hour mark. At the rate I'm going, I'll make it to 10K in just four more years.
+
+So don't be discouraged about the sheer amount of work it takes to get good at something. The real joy is in the journey itself, and knowing one day you will end up where you want to be. (And then you'll work on being somewhere else).
+
+[codecademy]: http://www.codecademy.com/
+[code-school]: http://www.codeschool.com/
+[tree-house]: http://teamtreehouse.com/
+[bloc]: http://bloc.io/
+[10_000]: /images/10000.jpg
+

@@ -14,6 +14,6 @@ I've been thinking about this trip seriously after reading [Alex MacCaw's blog][
 
 So my goal is simple: see as much as I can in the time allotted. If thinking about the journey was step one, this blog post is step two. And as the legendary Laozi wrote sometime in 600 B.C., "the journey of a thousand miles begins with a single step."[^quote] Of course, travelling around the world will be closer to 25,000 miles--which is a lot of steps!
 
-[travel-post]:    http://blog.alexmaccaw.com/how-to-travel-around-the-world-for-a-year
+[travel-post]: http://blog.alexmaccaw.com/how-to-travel-around-the-world-for-a-year
 [trail-image]: /images/trail.jpg
 [^quote]:  The original quote is more closely translated to "The journey of a thousand miles begins beneath one's feet," emphasizing that taking action is the most important 'step.'
