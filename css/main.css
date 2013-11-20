@@ -4,6 +4,7 @@
 /*
 /*****************************************************************************/
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Subrayada);
 
 /* Global Reset */
 * {
@@ -98,6 +99,10 @@ ul.posts span {
 
 .site .header h1.title a:hover {
   color: #000;
+}
+
+.site .header a {
+  font-family: 'Montserrat Subrayada', sans-serif;
 }
 
 .site .header a.extra {
