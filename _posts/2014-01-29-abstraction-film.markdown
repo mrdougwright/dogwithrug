@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abstraction in Software, Film and more"
+title:  "Abstraction"
 date:   2014-01-29 12:29:00
 categories: abstraction software trust
 ---
