@@ -9,7 +9,7 @@ A fundamental aspect to programming is abstraction. Identify a pattern in someth
 
 An unexpected by-product of my [journey][journey] into programming is the growing ability to see patterns and abstract problems. It reminds me of the time when I was taking Editing 101 at film school. Back then it was tough for me to enjoy watching a film, because all I could do was see the edits. Every time the camera moved or the scene cut or the frame faded to the next frame, I was enthralled. I'd practically jump out of my seat and point to the screen thinking, "Did you see that cut?!"
 
-This was because I was learning how to 'compile' a film in school with editing techniques. Learning how to lure the eye with different cuts, or to engage the mind; to follow the main character, to blend thoughts and emotions with fade-ins or mashups, etc.
+This was because I was learning how to 'compile' a film in school with editing techniques. Learning how to lure the eye with different cuts, to engage the mind; to follow the main character and blend thoughts and emotions with fade-ins, mashups, framing, etc. To understand why Walter Murch edited scenes in Apocalypse Now the way he did.
 
 ![apocalypse][apocalypse]
 
@@ -27,7 +27,7 @@ Yet, these companies are successful because they have abstracted one of the bigg
 
 Trust is essential to any transaction or service agreement. And so, although one can share his car or rent her apartment or trade goods on a portal like Craigslist, one cannot rely on that company to provide a level of trust between the buyer and the seller. That's where 3rd party companies like Airbnb come in, guaranteeing property protection in case of an untrustworthy guest, or Zimride, validating users with their social networks and ratings, so that you're not just hopping into a car with a stranger. Well, at least not a _complete_ stranger.
 
-It might seem too abstract, but these companies are essentially solving a trust issue. Create trust within a valuable service and scale with thousands of users and you have a great business. In the service economy, trust is the tipping point.
+It might seem too abstract, but these companies are essentially solving a trust issue. Create trust within a valuable service first, then scale with thousands of happy users and you have a great business. In the service economy, providing trust is the tipping point. It's the unseen force holding it all together. In the movies, we call that good editing.
 
 [journey]: /ruby/coding/2013/09/24/10_000-hours.html
 [bottle_trailer]: http://www.youtube.com/watch?v=AiE1u2I1D8c
