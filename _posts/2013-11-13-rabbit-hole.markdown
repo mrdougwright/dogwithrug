@@ -11,7 +11,7 @@ This is certainly how I feel sometimes. I've only just begin professionally prog
 
 ![Rabbit Hole][hole]
 
-And yet, no matter how much I plunge down the proverbial rabbit hole, there is still so much to learn. I suppose that's one of my favorite joys in my newfound profession. There's always more to learn. 
+And yet, no matter how much I plunge down the proverbial rabbit hole, there is still so much to learn. I suppose that's one of my favorite joys in my newfound profession. There's always more to learn.
 
 But this can have a drawback as well. One in which I feel I can never quite master my domain. Or perhaps I just need to be patient. It didn't take me long to feel like I had mastered conversion rate optimization and other aspects of online marketing. And while there was still more to learn in marketing, it's no where near what it's like learning how to code.
 
