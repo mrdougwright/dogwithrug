@@ -7,7 +7,7 @@ categories: life coding metaphysics
 
 This post is heavily inspired--if not completely copied--from a talk given by [Danny Hillis at TED in 1994][hillis].
 
-Hillis is an American engineer and inventor, known for his work on parallel supercomputing. In his talk he discusses the transition we are in, us human beings on this earth, and what might be really happening with our future.
+Hillis is an American engineer and inventor, known for his work on parallel supercomputing. In his talk he discusses the transition we are in, us human beings on this earth, and what might be happening with our future.
 
 ![Interstellar gas and rock][gases]
 
