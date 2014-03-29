@@ -10,7 +10,7 @@ categories: random
 
 None of us are born anything. We're not born rock stars, politicians, or CEOs, we're not born to be movie stars or famous authors. The obscurity of these positions, the natural limit to their availability in the world, proves that we can't all hope to become someone remarkable. Most of us will never come close to achieving a place in history. And this is upsetting.
 
-From an early age I was taught to study hard and I could achieve anything I dreamed. If I wanted to be an astronaut or the next president, no problem. And for a while, I might have believed that. When you're raised this way, the world feels like it's yours, and that you can truly do what you set your mind to. But as you grow older, you start to see the fallacy in this. You begin to see that you are, like many of those around you, simply...ordinary. 
+From an early age I was taught to study hard and I could achieve anything I dreamed. If I wanted to be an astronaut or the next president, no problem. And for a while, I might have believed that. When you're raised this way, the world feels like it's yours, and that you can truly do what you set your mind to. But as you grow older, you start to see the fallacy in this. You begin to see that you are, like many of those around you, simply...ordinary.
 
 I came to realize this after breaking into the film business in Los Angeles. After hundreds of unpaid hours I managed to get my foot in the door and slowly crawl my way up. It soon became apparent that my dream of producing/directing/writing was going to take a lot longer than I thought--and that it might never happen at all.
 

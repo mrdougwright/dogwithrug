@@ -25,7 +25,7 @@ Just a few hundred million years more and we have multi-cellular communities wor
 
 ![deep sea fish][fish]
 
-Advancing further, communities of cells begin to abstract information, building special structures or neurons. These special structures are responsible for recording and learning information for the individual. Now you have things like a brain and a nervous system. This meant that learning could happen within a lifetime of a single organism, not just on an evolutionary timeline.
+Advancing further, communities of cells begin to abstract information, building special structures or neurons. These special structures are responsible for recording and learning information for the individual. Now you have things like a brain and a nervous system. This meant that learning could happen within a lifetime of a single organism, not just on an evolutionary time line.
 
 Only a few ten thousand years ago and these organisms start to use their newly formed brains to create language. With language you now have another recording device to aid in evolution. Not only can the individual adapt to its surroundings with its nervous system, but also as a community of individuals using shared knowledge through language. For example, the creation of fire with sticks or stone, passed down through generations.
 
