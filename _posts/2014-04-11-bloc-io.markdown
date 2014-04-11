@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Learning to Code at Bloc.io"
+date:   2014-04-11 11:43:00
+categories: Bloc.io Learn to Code
+---
+
+I don't know why I wanted to learn how to code. I guess the mysterious aspect of just 'what the hell' was going on behind the scenes of my computer interested me. Perhaps it was the fun new languages and exercises found online, like [Rails for Zombies][Rails Zombies].
+
+Whatever it was that caused the coding bug to bite me, I couldn't shake it. And from those slow beginnings and dabbling in Python, Ruby and JavaScript, I found myself drawn to life as a software developer.
+
+![github commits][github commits]
+
+Fast-forward a few years and my hard work is paying off. After taking the online [web development course][web-dev] from Bloc.io, I learned a lot about the basics of building a Ruby on Rails application. I also learned how to install the New Relic agent, which actually helped me get a job _there_ as well.
+
+Still working in marketing, I would run A/B tests by day and code by night, honing my craft and growing ever more intrigued. I even decided to take my novice learnings and write a [kids book for Ruby][rubykin]!
+
+In addition to the many hours I spend reading tech books and coding, I must admit that living and networking in San Francisco has also helped me on my career path. After a few meetings with the co-founders at Bloc, they offered me a job to join their engineering team.
+
+The transition from marketing to engineering is no easy task, and I still have a lot to learn. But often in life I'm reminded of the importance of looking backwards to see how far I've come. It hasn't been a full year in my new career and I've pushed over 380 commits and 7,000 lines of code. 
+
+Of course, that's not the greatest measuring stick for code contribution, but it's something. More importantly, the fact is that I'm a contributing member of the engineering team. I sought out something I wanted to become, and I utilized as many resources as possible to accomplish that goal. And if I can do it, anyone with a bit of determination and perseverance can do it too.
+
+![Greg Pollak Codeschool][greg pollak codeschool]
+
+Oh, and I also met Greg Pollak :)
+
+[github commits]: /images/github-commit-graph.png
+[Rails Zombies]: http://railsforzombies.org/
+[greg pollak codeschool]: /images/greg-pollak-codeschool.png
+[web-dev]: https://www.bloc.io
+[rubykin]: http://rubykin.com/
