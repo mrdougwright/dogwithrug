@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "the Unknowns of Story Telling"
+date:   2014-05-23 12:43:00
+categories: unknown, mystery, code
+---
+
+It occurred to me today that writing code is a lot like story telling. Both have an intrinsic nature of being a bit scary or unnerving. Why? Because when doing either you are essentially traveling into the unknown.
+
+![iceland unknown][unknown]
+
+When writing software to handle another user request on a website, a developer doesn't know what or how much code to actually write. I might have an idea of what models I might touch, or what database table I may need access too, but for the most part, there is a lot of code I just won't have a sense about until I sit down and start writing.
+
+The same holds true for good story telling. I may have an idea in my head for what type of story I want to tell, a sense of who the main characters are, but I don't know every detail of what will transpire. And I don't want to. Part of the joy of writing is taking the journey into the unknown, witnessing your characters come to life as they take on different actions through your plot.
+
+Likewise, the methods and algorithms I write to manipulate user requests and data as it flows through the app has a similar trajectory. The final result is not really decided by me, it comes about through trial and error, through experimentation. Whether I'm writing code, writing a story or even this blog post, the end materializes as a culmination of the work preceding it.
+
+There's a trick in screenwriting, where one sets out to write the third act first. The principal being that you can focus your energy on the most important part of the story, and then work your way backwards. I guess in the world of code this would be akin to test driven development.
+
+Whatever direction you choose to travel, the key is to embrace the fear of the unknown and just start writing. Contain your ideas, forge a path, and then let the work speak for itself.
+
+
+[unknown]: /images/unknown-iceland.jpg
+
