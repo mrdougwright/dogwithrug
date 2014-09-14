@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Korea"
+date:   2014-09-14 10:54:00
+categories: Travel, Korea
+---
+
+It's been months since my last blog post. With getting a new job, traveling to Korea and enjoying the summer, I guess that's natural. I've also started writing a 2nd novel, so that may be part of the reason for my lack of blog entries.
+
+In addition to these excuses, I haven't thought of anything particularly interesting to write about. So here are a few pictures from my trip. Enjoy!
+
+![Singapore Airlines][1]
+![Fish Market][2]
+![Apartments][3]
+![Fish in Subway][4]
+![Gumi][5]
+
+
+[1]: /images/korea-IMG_8763.jpg
+[2]: /images/korea-IMG_8787.jpg
+[3]: /images/korea-IMG_8828.jpg
+[4]: /images/korea-IMG_8835.jpg
+[5]: /images/korea-IMG_8928.jpg
