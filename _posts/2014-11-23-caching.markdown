@@ -2,7 +2,7 @@
 layout: post
 title:  "Rails Caching"
 date:   2014-11-14 08:03:00
-categories: Rails, Cache, Caching, Source Code
+categories: rails cache caching source code
 ---
 
 This post is about how caching works in Rails. But it's also about my first successful journey into getting answers from Rails source code.

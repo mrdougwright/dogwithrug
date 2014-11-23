@@ -2,7 +2,7 @@
 layout: post
 title:  "Korea"
 date:   2014-09-14 10:54:00
-categories: Travel, Korea
+categories: Travel Korea
 ---
 
 It's been months since my last blog post. With getting a new job, traveling to Korea and enjoying the summer, I guess that's natural. I've also started writing a 2nd novel, so that may be part of the reason for my lack of blog entries.
