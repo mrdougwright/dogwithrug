@@ -5,11 +5,11 @@ date:   2014-11-14 08:03:00
 categories: Rails, Cache, Caching, Source Code
 ---
 
-This post is about how caching works in Rails. But it's also about my first successful journey into getting answers from source code.
+This post is about how caching works in Rails. But it's also about my first successful journey into getting answers from Rails source code.
 
 If you want to learn how to cache for specific points in your app, I highly recommend [episode 115 - Model Caching][Ryan Bates] from Ryan Bates. I set up the same type of caching for a recent work project. Here's the basics of caching.
 
-Let's say you have a view page that calls a `current_user.total_donations` method to see the sum amount of all donations. Your model code might look something like this.
+Let's say you have a view page that calls a `current_user.total_donations` method to see the sum amount of all donations for that user. Your model code might look something like this.
 
 {% highlight ruby %}
 class User < ActiveRecord::Base
@@ -35,6 +35,8 @@ end
 {% endhighlight %}
 
 Of course, this won't work as expected. Once the first user accesses the view page to see their total donations, the fetch method will look for the `donations` key. Not finding it, Rails will run the query in the block and store the value. Now when `total_donations` is called again (for any user!) the value returned will be the cached result from the 'donations' key.
+
+So how do we fix this?
 
 First we need to create unique keys that change if an object is updated. We can do this with `cache_key`, which will return a unique string with the model name, id and updated_at date. 
 
@@ -105,7 +107,7 @@ def total_donations
 end
 {% endhighlight %}
 
-Whenever donations are created, updated or destroyed, the `:touch` parameter on the Donation model tells Rails to 'reach in' and also update the user model that donations belong to. With the user record being updated based on donations, calling `cache_key` on user will always return a unique key based on the last time that user record or their donations records were updated. By passing self into the fetch method, Rails will create a unique key based on that user record, and I can rest assured that Rails is doing its job.
+Whenever donations are created, updated or destroyed, the `:touch` parameter on the Donation model tells Rails to 'reach in' and also update the user model that donations belong to. Now user records are being updated based on donations. So calling `cache_key` on user will always return a unique key based on the last time that user record or their donation records were updated. By passing self (the user object) into the fetch method, a unique key will be created based on that user record, and I can rest assured that Rails is doing its job.
 
 
 [Ryan Bates]: http://railscasts.com/episodes/115-model-caching-revised
