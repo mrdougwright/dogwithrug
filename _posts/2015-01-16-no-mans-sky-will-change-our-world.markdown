@@ -32,17 +32,21 @@ Of course, computers aren't magic. A computer doesn't _know_ how to create an in
 
 This advanced tech allows a small game company like Hello Games, with a relatively small amount of software or 'seed' planting, to create a generated, undiscovered infinite universe. Murray has calculated it would take one person, discovering one planet _every second_, about 585 billion years to find them all.
 
-Forty years ago Conway couldn't have imagined the vast complexities that would arise from his simple game of life. Hello Games developers continue to surprise themselves today as they debug their own game and explore different planets. Fans already have their [forums] created, ready to share their findings. No Man's Sky will certainly leave its mark in the history of game development. 
+Forty years ago Conway couldn’t have imagined the vast complexities that would arise from his simple game of life. Hello Games developers continue to surprise themselves today as they debug their own game and explore different planets. Fans already have their forums created, ready to share their findings as they journey into the unknown. For that, No Man’s Sky will certainly leave its mark in the history of game development.
 
-Perhaps the game will be remembered for its communities, bringing people together, or even inspiring more towards software development? Perhaps its advanced use of tech will change the way games are made, or even advance applications in artificial intelligence and other areas of software development? It's hard to predict, of course, like the game itself. There are a few things we know, with certainty, and a vast amount of things that have yet to be discovered.
+Perhaps the game will be remembered for its communities, bringing people together as they share their journeys. Perhaps the concept and its software will inspire more students towards careers in computer science. Perhaps its advanced use of tech will change the way games are made, or advance applications in artificial intelligence and other areas of software.
+
+It’s hard to predict the future, of course, and the game itself contains so many unknowns. But such is life; there are a few things we do know, with certainty, and a vast amount that is simply yet to be discovered.
+
+![No Man's Sky][no-mans-sky-ships]
 
 "For me, the quiet moments of discovery are what its all about." - [Sean Murray][Murray]
-
 
 
 [no-mans-sky]: /images/no-mans-sky.jpg
 [conway]: /images/conway-game-of-life.gif
 [no-mans-sky-field]: /images/NoMansSkyField.png
+[no-mans-sky-ships]: /images/no-mans-sky3.jpg
 
 [the-sentinel]: http://en.wikipedia.org/wiki/The_Sentinel_(video_game)
 [no-mans-sky-video]: https://www.youtube.com/watch?v=h-kifCYToAU
