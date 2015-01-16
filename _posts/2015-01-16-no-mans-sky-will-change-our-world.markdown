@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No Man's Sky will Change Our World"
-date:   2015-01-10 11:34:40
+date:   2015-01-16 09:31:40
 categories: gaming coding future
 ---
 
