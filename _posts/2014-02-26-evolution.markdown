@@ -60,7 +60,7 @@ As computers begin to write better instructions than we can, to store informatio
 
 [hillis]: http://www.ted.com/talks/danny_hillis_back_to_the_future_of_1994.html
 [GOE]: http://en.wikipedia.org/wiki/Great_Oxygenation_Event
-[AI]: http://mrdougwright.com/2012/11/01/google-creates-the-next-a-i/
+[AI]: http://mrdougwright.wordpress.com/2012/11/01/google-creates-the-next-a-i/
 
 
 [gases]: /images/gases.jpg
