@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "3 Quick Ruby Tips"
+date:   2016-05-21 22:59:00
+categories: ruby programming tips software
+---
+These may not be the best Ruby tips, but I like using them. I felt joy when I discovered them and I still feel a sense of joy using them today.
+
+### 1) Array()
+
+I picked up this tip watching an Avdi Grimm video. It's a great little technique to use when you are working with a method that expects an array, but you aren't sure if other methods will always pass it one. You may be thinking to use the splat array, but that will give you an array of arrays, if an array is passed.
+
+{% highlight ruby %}
+  class Animal
+    def dog(other_dogs)
+      Array(other_dogs).each do |d|
+        puts "bark #{d}"
+      end
+    end
+  end
+{% endhighlight %}
+{% highlight shell %}
+  $ Animal.new.dog("Bob")  #string
+  $ => bark Bob
+  $ Animal.new.dog(["Bob", "Rover"])  #array
+  $ => bark Bob
+  $ => bark Rover
+{% endhighlight %}
+
+Here, we don't care if `other_dogs` is a string or an array, we will simply convert it to an array using the `Array(object_to_convert)` method.
+
+
+### 2) Subtract Object methods
+
+This one is very simple, but I didn't learn it for a long time. And when I did, I found myself using it a lot. Often times, especially when writing software in Rails apps, I find myself relying (gratefully) on gems. Despite reading documentation, there are many times when I am trying to find out what an object can do, what are it's methods?
+
+{% highlight ruby %}
+  Hash.new.methods.count
+  => 150
+  (Hash.new.methods - Object.methods).count
+  => 93
+  Animal.new.methods - Object.methods
+  => [:dog]
+{% endhighlight %}
+
+I've known about the `methods` method for sometime, but I never thought to subtract the `Object.methods` first. This makes finding methods much easier when learning new gems or working on a large legacy application.
+
+
+### 3) Send method
+
+Imagine we had many animal methods in our Animal class above. (I know, it's an overused example, but it's nice and simple). If we wanted to call each of these methods, we may find ourselves duplicating a lot of the same code. Enter the send method.
+
+With `send` we can iterate over an array and call each item using it as a method name.
+
+{% highlight ruby %}
+  animal_methods = Animal.new.methods - Object.methods
+  animal_methods.each {|m| Animal.new.send(m) }
+  # dog method invoked with nil passed,
+  # but it converts to empty array safely!
+  => [:dog, :cat]
+{% endhighlight %}
+
+Looks like someone added the cat method to our animal class. Luckily, using the tips just mentioned, it's not a problem.
