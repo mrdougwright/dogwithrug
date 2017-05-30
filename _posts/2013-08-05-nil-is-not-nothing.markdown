@@ -4,8 +4,8 @@ title:  "nil is not nothing"
 date:   2013-08-05 07:56:00
 categories: nil ruby coding
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>August 05, 2013</span>
+<div class="postmetadata">
+  Posted on <span class="updated">August 05, 2013</span>
 </div>
 
 Programming will always be a representation of reality. It can never be the real thing. For example, you may have a relationship with your bank, where your money flows in and out, but the program you access online to interact with your bank merely represents your banking data and the methods you call to manipulate that data.

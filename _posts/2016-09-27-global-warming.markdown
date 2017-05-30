@@ -4,8 +4,9 @@ title:  "Global Warming"
 date:   2016-09-27 06:54:00
 categories: global warming future
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Sept 27, 2016</span>
+
+<div class="postmetadata">
+  Posted on <span class="updated">Sept 27, 2016</span>
 </div>
 
 If you haven't seen Al Gore's 2016 TED talk on global warming, watch it now:

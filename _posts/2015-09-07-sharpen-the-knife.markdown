@@ -4,8 +4,8 @@ title:  "Sharpen the knife"
 date:   2015-09-07 03:36:30
 categories: purpose life future
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Sept 07, 2015</span>
+<div class="postmetadata">
+  Posted on <span class="updated">Sept 07, 2015</span>
 </div>
 
 I’m 34 years old. This is the first day of the rest of my life.

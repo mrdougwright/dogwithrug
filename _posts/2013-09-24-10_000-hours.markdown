@@ -4,8 +4,8 @@ title:  "10,000 hours"
 date:   2013-09-24 05:54:00
 categories: ruby coding
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Sept 24, 2013</span> 
+<div class="postmetadata">
+  Posted on <span class="updated">Sept 24, 2013</span> 
 </div>
 
 Three years ago I pondered the idea of learning programming. At the time I was working in the film industry, and it wasn't turning out to be that glamorous. I can't remember why I started playing around with code one day. I remembered some of the basics I had learned in college, but back then programming had not interested me.

@@ -4,8 +4,8 @@ title:  "Jekyll Intro Page"
 date:   2013-07-12 08:59:56
 categories: jekyll update
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>July 12, 2013</span> 
+<div class="postmetadata">
+  Posted on <span class="updated">July 12, 2013</span> 
 </div>
 
 This is the post that comes with Jekyll. I decided to leave it for my own reference and perhaps yours.

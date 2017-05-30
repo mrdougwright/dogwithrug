@@ -4,8 +4,8 @@ title:  "A Future Long Past"
 date:   2015-07-02 18:36:30
 categories: coding future
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>July 02, 2015</span>
+<div class="postmetadata">
+  Posted on <span class="updated">July 02, 2015</span>
 </div>
 
 As the fields of green wheat flash before my eyes from the comfort of my air-conditioned car seat, I wonder what it was once like to live as a farmer. After all, humans were farmers for over 12,000 years. It's only in the past few hundred that we took on more varied roles, where only a small percentage of Sapiens actually tend to the fields.

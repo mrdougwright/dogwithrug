@@ -4,8 +4,8 @@ title:  "Never stop learning"
 date:   2014-03-29 13:04:00
 categories: life coding vacation
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>March 29, 2014</span>
+<div class="postmetadata">
+  Posted on <span class="updated">March 29, 2014</span>
 </div>
 
 # Why do we like vacation?

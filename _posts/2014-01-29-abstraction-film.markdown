@@ -4,8 +4,8 @@ title:  "Abstraction"
 date:   2014-01-29 12:29:00
 categories: abstraction software trust
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Jan 29, 2014</span>
+<div class="postmetadata">
+  Posted on <span class="updated">Jan 29, 2014</span>
 </div>
 
 A fundamental aspect to programming is abstraction. Identify a pattern in something and abstract it. Take it away from its constraints and (hopefully) simplify it and replicate it elsewhere.

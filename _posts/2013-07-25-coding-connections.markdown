@@ -4,8 +4,8 @@ title:  "Coding Connections"
 date:   2013-07-25 15:15:00
 categories: clean simple code
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>July 25, 2013</span> 
+<div class="postmetadata">
+  Posted on <span class="updated">July 25, 2013</span> 
 </div>
 
 Coding is all about connections. In fact, that's the hardest part. Making sure the various elements are accurately connected, making sure everyone's talking to each other. The actual computation or logistics of the program can be rather simple.

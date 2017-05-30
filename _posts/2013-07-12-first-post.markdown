@@ -4,8 +4,8 @@ title:  "Write. Write Code."
 date:   2013-07-12 09:05:00
 categories: new blog
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>July 12, 2013</span>
+<div class="postmetadata">
+  Posted on <span class="updated">July 12, 2013</span>
 </div>
 
 What better way to start off a new blog than by making the first post about writing a blog? Okay, that's a bit too meta, so I'll explain why I'm writing this blog in the first place.

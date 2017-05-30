@@ -4,8 +4,8 @@ title:  "rabbit hole"
 date:   2013-11-13 08:17:00
 categories: ruby coding
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Nov 13, 2013</span> 
+<div class="postmetadata">
+  Posted on <span class="updated">Nov 13, 2013</span> 
 </div>
 
 > "In another moment down went Alice after it, never once considering how in the world she was to get out again."

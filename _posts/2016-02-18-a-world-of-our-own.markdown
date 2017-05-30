@@ -4,8 +4,8 @@ title:  "A World of Our Own"
 date:   2016-02-18 10:59:00
 categories:
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Feb 18, 2016</span>
+<div class="postmetadata">
+  Posted on <span class="updated">Feb 18, 2016</span>
 </div>
 
 I am sure I'm not the first person to write about the phenomena that is plaguing the populace of the early 21st century. One might call it the age of social media (whatever that means), but I think there's more to it. Spurred by the Maslow growth of technology, our society has been swept into a new age.

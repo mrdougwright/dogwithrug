@@ -4,8 +4,8 @@ title:  "Travel the World"
 date:   2013-07-28 10:18:00
 categories: travel
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>July 28, 2013</span> 
+<div class="postmetadata">
+  Posted on <span class="updated">July 28, 2013</span> 
 </div>
 
 The nature of the human spirit is one of discovery and adventure. We are constantly learning and striving to understand our world and our place in it. So what better way to start then traveling around the world?

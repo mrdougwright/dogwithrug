@@ -4,8 +4,8 @@ title:  "3 Quick Ruby Tips"
 date:   2016-05-21 22:59:00
 categories: ruby programming tips software
 ---
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>Feb 21, 2016</span>
+<div class="postmetadata">
+  Posted on <span class="updated">Feb 21, 2016</span>
 </div>
 
 
