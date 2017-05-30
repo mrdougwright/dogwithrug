@@ -4,9 +4,13 @@ title:  "Coding Connections"
 date:   2013-07-25 15:15:00
 categories: clean simple code
 ---
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>July 25, 2013</span> 
+</div>
+
 Coding is all about connections. In fact, that's the hardest part. Making sure the various elements are accurately connected, making sure everyone's talking to each other. The actual computation or logistics of the program can be rather simple.
 
-Take the site-reading code below, for example. Most of the magic happens with the `require "open-uri"` on line one. This is code that's already written for you and widely used in Ruby. [OpenURI][openURI] essentially allows the computer to open a web page and read it like a file. Now that this part is done, and the connection from your terminal to a web page is made, the rest is easy. 
+Take the site-reading code below, for example. Most of the magic happens with the `require "open-uri"` on line one. This is code that's already written for you and widely used in Ruby. [OpenURI][openURI] essentially allows the computer to open a web page and read it like a file. Now that this part is done, and the connection from your terminal to a web page is made, the rest is easy.
 
 {% highlight ruby %}
 require "open-uri"

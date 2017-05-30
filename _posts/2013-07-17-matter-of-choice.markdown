@@ -4,6 +4,10 @@ title:  "A Matter of Choice"
 date:   2013-07-17 20:05:00
 categories: random
 ---
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>July 17, 2013</span> 
+</div>
+
 "Destiny is not a matter of chance, it is a matter of choice; it is not a thing to be waited for, it is a thing to be achieved."  ~ Winston Churchill
 
 ![path in the woods][wood-image]

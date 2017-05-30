@@ -4,6 +4,9 @@ title:  "A Future Long Past"
 date:   2015-07-02 18:36:30
 categories: coding future
 ---
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>July 02, 2015</span>
+</div>
 
 As the fields of green wheat flash before my eyes from the comfort of my air-conditioned car seat, I wonder what it was once like to live as a farmer. After all, humans were farmers for over 12,000 years. It's only in the past few hundred that we took on more varied roles, where only a small percentage of Sapiens actually tend to the fields.
 
@@ -18,4 +21,3 @@ Has this been the plan all along? Do we not find life in the universe, not becau
 Of course, either future is too difficult to predict or even fully comprehend. Regardless, as Moore's law holds true, and our speed and capacity within technology continues to double, a vastly different future is within our reach sooner than we think.
 
 One thing is for certain for the technological age in which we live: one day, we will forever be changed. Too advanced, too distant from our formal selves to return. Like the wooly mammoth, we may unearth our ancestors as if from a block of ice and look upon them with remorse at a simpler life once lived, longing for times past and wondering what it must have been like to live like them.
-

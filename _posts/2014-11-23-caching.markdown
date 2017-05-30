@@ -4,6 +4,9 @@ title:  "Rails Caching"
 date:   2014-11-14 08:03:00
 categories: rails cache caching source code
 ---
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>Nov 23, 2014</span>
+</div>
 
 This post is about how caching works in Rails. But it's also about my first successful journey into getting answers from Rails source code.
 
@@ -24,7 +27,7 @@ end
 
 The problem that caching solves is to prevent the query `donations.valid.sum(:amount)` from being called multiple times. Caching does this by creating a hash of key value pairs. You can then get your method result by calling a specific key and looking up its value, instead of repeating the work of querying the database.
 
-The fetch method is most popular, because it will try and read the key from cache and return the value. If the key does not exist, it will create it and run the block, storing the result as the value for the new key. 
+The fetch method is most popular, because it will try and read the key from cache and return the value. If the key does not exist, it will create it and run the block, storing the result as the value for the new key.
 
 {% highlight ruby %}
 def total_donations
@@ -38,7 +41,7 @@ Of course, this won't work as expected. Once the first user accesses the view pa
 
 So how do we fix this?
 
-First we need to create unique keys that change if an object is updated. We can do this with `cache_key`, which will return a unique string with the model name, id and updated_at date. 
+First we need to create unique keys that change if an object is updated. We can do this with `cache_key`, which will return a unique string with the model name, id and updated_at date.
 
 {% highlight ruby%}
 u = User.last
@@ -97,7 +100,7 @@ def expanded_key(key) # :nodoc:
 end
 {% endhighlight %}
 
-So looking at my code again, I gain a better understanding of what's happening. 
+So looking at my code again, I gain a better understanding of what's happening.
 
 {% highlight ruby %}
 def total_donations

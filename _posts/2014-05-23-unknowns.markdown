@@ -4,6 +4,9 @@ title:  "the Unknowns of Story Telling"
 date:   2014-05-23 12:43:00
 categories: unknown mystery code
 ---
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>May 23, 2014</span>
+</div>
 
 It occurred to me today that writing code is a lot like story telling. Both have an intrinsic nature of being a bit scary or unnerving. Why? Because when doing either you are essentially traveling into the unknown.
 
@@ -21,4 +24,3 @@ Whatever direction you choose to travel, the key is to embrace the fear of the u
 
 
 [unknown]: /images/unknown-iceland.jpg
-
