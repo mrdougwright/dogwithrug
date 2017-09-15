@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://dogwithrug.com/sitemap.xml
+Sitemap: http://doug.io/dogwithrug/sitemap.xml
